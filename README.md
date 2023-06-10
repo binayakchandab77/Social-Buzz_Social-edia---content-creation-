@@ -14,14 +14,15 @@ There is a lot of information here and it’s easy to get lost in the data. So, 
 
 Requirements gathering
 
--Data cleaning
--Data modelling
+* Data cleaning
+* Data modelling
 ---------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-Data sets - Quick Explanation
+-Data sets - Quick Explanation
+
 Great work! You’ve identified Reaction, Content, and Reaction Types as our relevant data sets.
 
 To clarify why you made this selection:
@@ -36,7 +37,8 @@ But! Before we begin to work with the data sets, we’ll need to ensure that the
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 
-Data Modelling
+-Data Modelling
+
 Okay, we’re nearly there! You’re doing a great job. 
 
 Now we want to figure out the top 5 categories. To complete your data modelling, follow these steps:
