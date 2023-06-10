@@ -13,5 +13,6 @@ A data model - this shows the relationships between all of the data sets, as wel
 There is a lot of information here and it’s easy to get lost in the data. So, to make sure you are using the right data to answer the business questions you’ll follow these steps:
 
 Requirements gathering
-Data cleaning
-Data modelling
+
+-Data cleaning
+-Data modelling
