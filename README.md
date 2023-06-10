@@ -19,9 +19,8 @@ Requirements gathering
 ---------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-
-
--Data sets - Quick Explanation
+-Data sets 
+- Quick Explanation
 
 Great work! You’ve identified Reaction, Content, and Reaction Types as our relevant data sets.
 
